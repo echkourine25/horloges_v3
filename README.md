@@ -3,9 +3,6 @@
 installation :
 
 
-```curl -o horloges.js https://raw.githubusercontent.com/echkourine25/horloges_v3/main/horloges_v3.sh```
-
-
 ```chmod +x horloges_v3.sh```
 
 
